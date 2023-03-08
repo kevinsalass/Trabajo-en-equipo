@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1678309195 "c:/Users/Edgar/OneDrive/Documentos/latex-equipo/AlgLin-T1-Problemario-Temas.tex" "build/AlgLin-T1-Problemario-Temas.pdf" "AlgLin-T1-Problemario-Temas" 1678309196 0
-  "AlgLin-T1-Problemario-Temas.tex" 1678309195 2745 6f3f934c0a164ee8f9cc042dd6336830 ""
+["pdflatex"] 1678312821 "c:/Users/Edgar/OneDrive/Documentos/latex-equipo/AlgLin-T1-Problemario-Temas.tex" "build/AlgLin-T1-Problemario-Temas.pdf" "AlgLin-T1-Problemario-Temas" 1678312822 0
+  "AlgLin-T1-Problemario-Temas.tex" 1678312820 2747 292b8ef4a8e995b8880abbda77e1586b ""
   "C:/Users/Edgar/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1675457956 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/Edgar/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1674421661 10788010 6949fca2ccd2fe3d5a3bd711f2f21246 ""
   "C:/Users/Edgar/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
@@ -25,12 +25,7 @@
   "C:/Users/Edgar/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmti12.tfm" 1136765053 1484 ed72f8f5cf654cda15ecc8e32bfcbee5 ""
   "C:/Users/Edgar/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1247593066 32080 340ef9bf63678554ee606688e7b5339d ""
   "C:/Users/Edgar/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb" 1247593067 32001 6aeea3afe875097b1eb0da29acd61e28 ""
-  "C:/Users/Edgar/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb" 1247593067 36741 0ee9e374ec3e30da87cdfb0ea3575226 ""
-  "C:/Users/Edgar/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb" 1247593066 35469 dcf3a5f2fc1862f5952e3ee5eb1d98c4 ""
   "C:/Users/Edgar/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1247593067 32722 d7379af29a190c3f453aba36302ff5a9 ""
-  "C:/Users/Edgar/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb" 1247593067 32726 39f0f9e62e84beb801509898a605dbd5 ""
-  "C:/Users/Edgar/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1247593067 32569 5e5ddc8df908dea60932f3c484a54c0d ""
-  "C:/Users/Edgar/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb" 1247593067 32626 5abc8bb2f28aa647d4c70f8ea38cc0d3 ""
   "C:/Users/Edgar/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb" 1247593067 36118 fad905eba93cff5bce1e185fe980a177 ""
   "C:/Users/Edgar/AppData/Local/Programs/MiKTeX/tex/context/base/mkii/supp-pdf.mkii" 1580390158 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "C:/Users/Edgar/AppData/Local/Programs/MiKTeX/tex/generic/babel/babel.sty" 1664892351 152127 31067273495f46936aa2b3653cd6090b ""
@@ -74,10 +69,10 @@
   "C:/Users/Edgar/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1656233290 56148 51a9a8571c07b9921892ae11063ae853 ""
   "build/../../../../Downloads/LOGO_DERECHA.png" 1664594092 34553 91085e0cf0829d660f600051579dd207 ""
   "build/../../../../Downloads/logo_izquierda.png" 1664594174 87572 5f6edd448b0475f9a14562adecd72c1f ""
-  "build/AlgLin-T1-Problemario-Temas.aux" 1678309196 194 05eaff20a35224c0a0d2a9aceff1100f "pdflatex"
+  "build/AlgLin-T1-Problemario-Temas.aux" 1678312822 194 05eaff20a35224c0a0d2a9aceff1100f "pdflatex"
   "c:/Users/Edgar/Downloads/LOGO_DERECHA.png" 1664594092 34553 91085e0cf0829d660f600051579dd207 ""
   "c:/Users/Edgar/Downloads/logo_izquierda.png" 1664594174 87572 5f6edd448b0475f9a14562adecd72c1f ""
-  "c:/Users/Edgar/OneDrive/Documentos/latex-equipo/AlgLin-T1-Problemario-Temas.tex" 1678309195 2745 6f3f934c0a164ee8f9cc042dd6336830 ""
+  "c:/Users/Edgar/OneDrive/Documentos/latex-equipo/AlgLin-T1-Problemario-Temas.tex" 1678312820 2747 292b8ef4a8e995b8880abbda77e1586b ""
   (generated)
   "build/AlgLin-T1-Problemario-Temas.aux"
   "build/AlgLin-T1-Problemario-Temas.log"

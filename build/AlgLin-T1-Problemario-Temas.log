@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.1.22)  8 MAR 2023 14:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.1.22)  8 MAR 2023 16:00
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -396,26 +396,20 @@ LaTeX Info: Redefining \% on input line 8.
 Here is how much of TeX's memory you used:
  5446 strings out of 475385
  86041 string characters out of 2776907
- 446703 words of memory out of 3000000
+ 448703 words of memory out of 3000000
  26758 multiletter control sequences out of 15000+600000
  476058 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,12n,62p,313b,363s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 55i,8n,62p,313b,363s stack positions out of 10000i,1000n,20000p,200000b,80000s
 <C:/Users/Edgar/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm
 /cmbx12.pfb><C:/Users/Edgar/AppData/Local/Programs/MiKTeX/fonts/type1/public/am
 sfonts/cm/cmcsc10.pfb><C:/Users/Edgar/AppData/Local/Programs/MiKTeX/fonts/type1
-/public/amsfonts/cm/cmmi12.pfb><C:/Users/Edgar/AppData/Local/Programs/MiKTeX/fo
-nts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Edgar/AppData/Local/Programs/M
-iKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Edgar/AppData/Local/Pr
-ograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Edgar/AppData/L
-ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Edgar/
-AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/User
-s/Edgar/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb
->
+/public/amsfonts/cm/cmr12.pfb><C:/Users/Edgar/AppData/Local/Programs/MiKTeX/fon
+ts/type1/public/amsfonts/cm/cmti12.pfb>
 Output written on c:\Users\Edgar\OneDrive\Documentos\latex-equipo\build\AlgLin-
-T1-Problemario-Temas.pdf (2 pages, 195611 bytes).
+T1-Problemario-Temas.pdf (2 pages, 152932 bytes).
 PDF statistics:
- 58 PDF objects out of 1000 (max. 8388607)
+ 33 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
